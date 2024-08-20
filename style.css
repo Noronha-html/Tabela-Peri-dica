@@ -1,0 +1,125 @@
+.elemento{
+    width: 80px;
+    height: 80px;
+    display: block;
+    float: left;
+    border-radius: 15%;
+    margin: 5px;
+}
+.nAtomico{
+    width: 75px;
+    height: 7px;
+    display: block;
+    float: top;
+    padding-top: 4px;
+    padding-right: 5px;
+    margin-bottom: 2px;
+    color: white;
+    text-align: right;
+}
+.simbolo{
+    width: 80px;
+    height: 30px;
+    display: block;
+    float: top;
+    padding-top: 0px;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.nome{
+    width: 80px;
+    height: 10px;
+    display: block;
+    float: top;
+    padding-top: 0px;
+    color: white;
+    text-align: center;
+    font-size: 10px
+}
+.mAtomica{
+    width: 80px;
+    height: 15px;
+    display: block;
+    float: top;
+    padding-top: 0px;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.tabela{
+    width: 1620px;
+    height: 635px;
+    display: block;
+    position: absolute;
+    top: 200px;
+    margin-top: -200px;
+}
+.colMaior{
+    width: 90px;
+    height: 630px;
+    display: block;
+    float: left;
+    margin-top: 5px;
+}
+.colMenor{
+    width: 90px;
+    height: 540px;
+    display: block;
+    float: left;
+    margin-top: 95px;
+}
+.retangulo{
+    width: 900px;
+    height: 360px;
+    display: block;
+    float: left;
+    margin-top: 275px;
+}
+.tabelaMenor{
+    width: 1350px;
+    height: 180px;
+    display: block;
+    float: right;
+    margin-top:670px;
+    margin-left: 270px;
+    position: absolute;
+}
+.elemento:hover{
+    background-color: blue;
+}
+/* ID */
+/* CORES */
+.corRoxo{
+    background-color: purple;
+}
+.corMarrom{
+    background-color: brown;
+}
+.corAzulForte{
+    background-color: blue;
+}
+.corVerde{
+    background-color: green;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corAzulFraco{
+    background-color: lightblue;
+}
+.corVermelho{
+    background-color: red;
+}
+.corRosa{
+    background-color: pink;
+}
+.corBranco{
+    background-color: white;
+}
+.corPreto{
+    background-color: black;
+}
+.corLaranja{
+    background-color: orange;
+}
